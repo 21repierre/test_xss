@@ -1,4 +1,4 @@
-fetch("http://localhost/activate-plugin/1", {
+fetch("/activate-plugin/1", {
     "credentials": "include",
     "referrer": "http://website-l8lruj.inst.malicecyber.com/show-plugins",
     "method": "GET"
